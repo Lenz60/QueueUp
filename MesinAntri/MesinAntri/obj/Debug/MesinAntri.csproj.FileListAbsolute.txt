@@ -1,0 +1,156 @@
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\App.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+F:\000000PL\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+F:\000000PL\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+F:\000000PL\MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\App.g.cs
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.CoreCompileInputs.cache
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+F:\000000PL\MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\App.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\App.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\###Semester 3\Revisi\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\App.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+D:\rafly\000000PL\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\App.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2BWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\View\MesinAntriWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.ResolveComReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\obj\Debug\MesinAntri.View.CetakForm.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\itextsharp.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]MesinAntri\MesinAntri\bin\Debug\itextsharp.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe.config
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.ResolveComReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\App.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri_MarkupCompile.lref
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\MesinAntri.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\MesinAntri.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\itextsharp.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\itextsharp.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri1Window.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\View\MesinAntri2Window.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.g.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.Properties.Resources.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.View.CetakForm.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\MesinAntri\MesinAntri\obj\Debug\MesinAntri.csproj.GenerateResource.Cache

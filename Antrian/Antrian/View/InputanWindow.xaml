@@ -1,0 +1,56 @@
+﻿<Window x:Class="Antrian.View.InputanWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Antrian.View"
+        mc:Ignorable="d"
+        Title="InputanData" Height="325.397" Width="293.651" Icon="/Antrian;component/Image/icon/LogoSmall.png">
+    <Grid Background="#FF91D8F7">
+        <Canvas HorizontalAlignment="Left" Height="273" VerticalAlignment="Top" Width="266" Margin="10,10,0,0" Background="#91D8F7">
+            <Image x:Name="ImgAntri" Height="53" Width="138" Canvas.Left="71" Canvas.Top="115" Source="../Image/Button/BtnInputAntri.png" MouseDown="ImgAntri_MouseDown" Cursor="Hand">
+                <Image.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Input Antrian</TextBlock>
+                            <TextBlock>Untuk menginputkan antrian pasien.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Image.ToolTip>
+            </Image>
+            <Image x:Name="ImgAdmin" Height="53" Width="138" Canvas.Left="71" Canvas.Top="187" Source="/Antrian;component/Image/Button/BtnAksesAdmin.png" MouseDown="ImgAdmin_MouseDown" Cursor="Hand" >
+                <Image.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Akses Admin</TextBlock>
+                            <TextBlock>Untuk mengolah data Staff dan Rekap data.</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Image.ToolTip>
+            </Image>
+        </Canvas>
+        <Image x:Name="ImgStaff" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="34" Margin="20,19,0,0" Source="../Image/icon/IconStaff.png"/>
+        <Label x:Name="LbNamaStaff" Content="Staff" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,19,0,0" Width="173"/>
+        <Label x:Name="LblJudul" Content="Navigasi Input" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,65,0,0" FontSize="24" FontFamily="Arial Rounded MT Bold" Height="51" Width="191" Foreground="Black"/>
+        <Image x:Name="ImgLogout" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="21" Margin="256,16,0,0" Source="/Antrian;component/Image/icon/IconLogout.png" RenderTransformOrigin="0.5,0.5" MouseDown="ImgLogout_MouseDown" Cursor="Hand">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+            <Image.ToolTip>
+                <ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Log Out</TextBlock>
+                        <TextBlock>Klik untuk logout dari akun anda.</TextBlock>
+                    </StackPanel>
+                </ToolTip>
+            </Image.ToolTip>
+        </Image>
+
+    </Grid>
+</Window>

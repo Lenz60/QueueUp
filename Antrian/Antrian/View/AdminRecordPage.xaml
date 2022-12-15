@@ -1,0 +1,52 @@
+﻿<Page x:Class="Antrian.View.AdminRecordPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Antrian.View"
+      mc:Ignorable="d"
+      Title="AdminRecordPage" Height="601.113" Width="1047.038">
+
+    <Grid>
+        <DataGrid x:Name="DGRecord" HorizontalAlignment="Left" Margin="348,235,0,0" VerticalAlignment="Top" Height="157" Width="453"/>
+        <Button x:Name="BtnTambah" Content="Tampilkan" HorizontalAlignment="Left" Margin="510,194,-309,0" VerticalAlignment="Top" Width="99" Height="26" Click="BtnTambah_Click"/>
+        <Label x:Name="LbJudul" Content="Record Data Antrian" Margin="1,0,0,0" VerticalAlignment="Top" FontSize="18" Background="#FF1FCAD3" Foreground="White" Width="1046" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <Label x:Name="LbShowRecord" Content="Data Yang Ditampilkan" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="137,91,0,0"/>
+        <ComboBox x:Name="CmbRecord" HorizontalAlignment="Left" Margin="325,95,0,0" VerticalAlignment="Top" Width="258" Height="27">
+            <ComboBoxItem Content="Data Antrian"/>
+            <ComboBoxItem Content="Jumlah Antrian Pasien"/>
+            <ComboBoxItem Content="Jumlah Pengantri dari Poli"/>
+            <ComboBoxItem Content="Jumlah Pengantri dari Dokter"/>
+            <ComboBoxItem Content="Data Pengantri yang dilayani Dokter"/>
+            <ComboBoxItem Content="Data Pengantri yang dilayani Poli"/>
+        </ComboBox>
+        <ComboBox x:Name="CmbRecordDokter" HorizontalAlignment="Left" Margin="776,70,0,0" VerticalAlignment="Top" Width="124" Height="27">
+            <ComboBoxItem Content="Jakurai"/>
+            <ComboBoxItem Content="Shiki"/>
+            <ComboBoxItem Content="Kaoru"/>
+            <ComboBoxItem Content="Rumi"/>
+            <ComboBoxItem Content="Demian"/>
+            <ComboBoxItem Content="Rafael"/>
+            <ComboBoxItem Content="Anto"/>
+            <ComboBoxItem Content="Tri"/>
+            <ComboBoxItem Content="Agung"/>
+            <ComboBoxItem Content="Linda"/>
+            <ComboBoxItem Content="Muzaki"/>
+        </ComboBox>
+        <Label x:Name="LbRecordDokter" Content="Dokter" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="588,66,0,0"/>
+        <ComboBox x:Name="CmbRecordPoli" HorizontalAlignment="Left" Margin="776,115,0,0" VerticalAlignment="Top" Width="124" Height="27">
+            <ComboBoxItem Content="Umum"/>
+            <ComboBoxItem Content="Saraf"/>
+            <ComboBoxItem Content="Orthopedi"/>
+            <ComboBoxItem Content="THT"/>
+            <ComboBoxItem Content="Gigi"/>
+            <ComboBoxItem Content="Anak"/>
+            <ComboBoxItem Content="Kulit dan Kelamin"/>
+            <ComboBoxItem Content="Penyakit Dalam"/>
+            <ComboBoxItem Content="Mata"/>
+            <ComboBoxItem Content="Kandungan"/>
+        </ComboBox>
+        <Label x:Name="LbRecordPoli" Content="Poli" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="588,111,0,0"/>
+
+    </Grid>
+</Page>

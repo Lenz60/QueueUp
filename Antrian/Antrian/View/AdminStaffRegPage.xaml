@@ -1,0 +1,28 @@
+﻿<Page x:Class="Antrian.View.AdminStaffRegPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Antrian.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="371"
+      Title="AdminStaffRegPage" Height="601.113" Width="1047.038">
+
+    <Grid>
+        <DataGrid x:Name="DGStaff" HorizontalAlignment="Left" Margin="144,225,0,0" VerticalAlignment="Top" Height="157" Width="782" SelectionChanged="DGStaff_SelectionChanged">
+            <DataGrid.Columns>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="BtnTambah" Content="Tambah" HorizontalAlignment="Left" Margin="510,194,0,0" VerticalAlignment="Top" Width="99" Height="26" Click="BtnTambah_Click"/>
+        <Button x:Name="BtnEdit" Content="Edit" HorizontalAlignment="Left" Margin="279,194,0,0" VerticalAlignment="Top" Width="97" Height="26" Click="BtnEdit_Click"/>
+        <Button x:Name="BtnDelete" Content="Delete" HorizontalAlignment="Left" Margin="784,193,0,0" VerticalAlignment="Top" Width="94" Height="25" Click="BtnDelete_Click"/>
+        <Label x:Name="LbJudul" Content="Akses Data Staff" Margin="0,0,1,0" VerticalAlignment="Top" FontSize="18" Background="#FF1FCAD3" Foreground="White" Width="1046" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <TextBox x:Name="TxtNama" HorizontalAlignment="Left" Height="23" Margin="435,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="293"/>
+        <Label x:Name="LbUsername" Content="Nama" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="313,48,0,0"/>
+        <TextBox x:Name="TxtUsername" HorizontalAlignment="Left" Height="24" Margin="435,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="261" KeyDown="TxtUsername_KeyDown"/>
+        <Label x:Name="LbPassword" Content="Username" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="313,93,0,0"/>
+        <Label x:Name="LbNama" Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Background="{x:Null}" Foreground="White" Margin="313,129,0,0"/>
+        <PasswordBox x:Name="PBPassword" Password="./Hello_World" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="435,142,0,0" Height="24" Width="293" KeyDown="PBPassword_KeyDown"/>
+
+    </Grid>
+</Page>

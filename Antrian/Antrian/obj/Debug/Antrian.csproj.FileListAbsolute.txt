@@ -1,0 +1,302 @@
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\bin\Debug\Antrian.exe.config
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\App.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\bin\Debug\Antrian.exe
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\bin\Debug\Antrian.pdb
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.exe
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.pdb
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\Antrian.g.resources
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\IDWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\InputanWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\LoginWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\AdminWindow.baml
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+R:\Tugas Kuliah\Semester 3\Visual Studio 2015\Antrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+F:\000000PL\Antrian\Antrian\bin\Debug\Antrian.exe.config
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.exe
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.pdb
+F:\000000PL\Antrian\Antrian\bin\Debug\Antrian.exe
+F:\000000PL\Antrian\Antrian\bin\Debug\Antrian.pdb
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\App.g.cs
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\AdminWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\IDWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\InputanWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\View\LoginWindow.baml
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.g.resources
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+F:\000000PL\Antrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+J:\000000PL\Antrian\Antrian\bin\Debug\Antrian.exe.config
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.exe
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.pdb
+J:\000000PL\Antrian\Antrian\bin\Debug\Antrian.exe
+J:\000000PL\Antrian\Antrian\bin\Debug\Antrian.pdb
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\App.g.cs
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\AdminWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\IDWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\InputanWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\View\LoginWindow.baml
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.g.resources
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+J:\000000PL\Antrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\bin\Debug\Antrian.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\bin\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\bin\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\App.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\AdminWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\IDWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\InputanWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\View\LoginWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.g.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\Antrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\bin\Debug\Antrian.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\IDWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\App.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\bin\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\bin\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\AdminWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\IDWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\InputanWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\View\LoginWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.g.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\BackupAntrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe.config
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.pdb
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\App.g.cs
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.baml
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.g.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+R:\Tugas Kuliah\###Semester 3\Revisi\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe.config
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.exe
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Json.dll
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\StoryBoard.dll
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\WnvPdfPrint.dll
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Json.pdb
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\WnvPdfPrint.xml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\wnvpdfprint.dat
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\App.g.cs
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.baml
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.g.resources
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+D:\rafly\000000PL\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe.config
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Antrian.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\itextsharp.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Json.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\StoryBoard.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\WnvPdfPrint.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\itextsharp.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Json.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\WnvPdfPrint.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\wnvpdfprint.dat
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\App.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\IDWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\InputanWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\LoginWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.g.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.csproj.ResolveComReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\Antrian.View.Form1.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\SplashScreen.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\SplashScreen.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\App.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomePage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminHomePage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminRecordPage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\[Presentasi]BackupAntrian\Antrian\obj\Debug\View\AdminRecordPage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Antrian.exe.config
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.csproj.ResolveComReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Antrian.exe
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\itextsharp.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Json.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\StoryBoard.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\WnvPdfPrint.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\itextsharp.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Json.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\WnvPdfPrint.xml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\wnvpdfprint.dat
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminHomePage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminRecordPage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\SplashScreen.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\App.g.cs
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\App.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminHomePage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminRecordPage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\AdminWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\IDMemberWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\IDWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\InputanWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\LoginWindow.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\View\SplashScreen.baml
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.g.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.Properties.Resources.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.View.Form1.resources
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\obj\Debug\Antrian.csproj.GenerateResource.Cache
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Antrian.pdb
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\Interop.AcroPDFLib.dll
+E:\Tugas Kuliah\###Semester 3\PL\FINAL PROJECT\PRESENTASI\Antrian\Antrian\bin\Debug\AxInterop.AcroPDFLib.dll
+T:\Antrian\Kumpul\Antrian\Antrian\bin\Debug\Antrian.exe.config
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\AxInterop.AcroPDFLib.dll
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian.csproj.ResolveComReference.cache
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian.exe
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian.pdb
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian.csprojResolveAssemblyReference.cache
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Interop.AcroPDFLib.dll
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\AdminHomePage.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\AdminHomeWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\AdminRecordPage.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\AdminStaffRegPage.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\AdminWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\IDMemberWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\IDWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\InputanWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\LoginWindow.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\View\SplashScreen.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\App.g.cs
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.cache
+T:\Antrian\Kumpul\Antrian\Antrian\obj\Debug\Antrian_MarkupCompile.lref

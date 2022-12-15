@@ -1,0 +1,35 @@
+private void BtnEdit_Click(object sender, RoutedEventArgs e)
+        {
+            /*
+            hasil = KodeIDController.Edit();
+            //hasil akan mempengaruhi output dari fungsi Edit 
+            if (hasil == true)
+            {
+                MessageBox.Show("Data berhasil dirubah");
+            }
+            else
+            {
+                MessageBox.Show("Perubahan data gagal");
+                MessageBox.Show("Silahkan Dicek Kembali Inputannya");
+            }
+            Tampil();
+            */
+        }
+
+        private void BtnHapus_Click(object sender, RoutedEventArgs e)
+        {
+            /*
+            hasil = KodeIDController.Delete();
+            //hasil akan mempengaruhi output dari fungsi hapus
+            if (hasil == false)
+            {//jika false maka akan muncul message box :
+                MessageBox.Show("Data berhasil dihapus");
+            }
+            else
+            {//jika true
+                MessageBox.Show("Penghapusan data gagal");
+                MessageBox.Show("Silahkan Dicek Kembali Inputannya");
+            }
+            Tampil();
+            */
+        }

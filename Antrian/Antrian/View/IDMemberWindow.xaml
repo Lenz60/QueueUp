@@ -1,0 +1,18 @@
+﻿<Window x:Class="Antrian.View.IDMemberWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Antrian.View"
+        mc:Ignorable="d"
+        Title="IDMemberWindow" Height="384.167" Width="599.333" Background="#FF4DDCA8" Icon="/Antrian;component/Image/icon/LogoSmall.png">
+
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="62" VerticalAlignment="Top" Width="591" Background="#FF018CFF">
+            <Label x:Name="LbJudul" Content="Data Member ID" HorizontalAlignment="Left" FontSize="30" FontWeight="Bold" RenderTransformOrigin="1.077,0.839" FontFamily="Gotham Black" Height="62" Width="334" ScrollViewer.HorizontalScrollBarVisibility="Auto" Foreground="White" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Canvas.Left="130"/>
+        </Canvas>
+        <DataGrid x:Name="DGMember" HorizontalAlignment="Left" Margin="10,80,0,10" Width="571"/>
+    </Grid>
+
+</Window>

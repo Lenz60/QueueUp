@@ -1,0 +1,51 @@
+﻿<Window x:Class="Antrian.View.AdminHomeWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Antrian.View"
+        mc:Ignorable="d"
+        Title="AdminHomeWindow" Height="601.113" Width="1245.038" Icon="/Antrian;component/Image/icon/LogoSmall.png" Background="White">
+    <Grid Background="White" Margin="-2,0,2,412" Grid.Row="1" Grid.Column="1">
+        <Canvas HorizontalAlignment="Left" Height="570" VerticalAlignment="Top" Width="204" Background="#87CAE6" Margin="0,0,0,-396">
+            <DockPanel VerticalAlignment="Center" HorizontalAlignment="Right" Width="204" Height="66" Style="{DynamicResource MenuBackground}" Canvas.Top="204">
+                <Label x:Name="LblHome" Width="166" Content="Halaman Utama" VerticalAlignment="Center" FontFamily="Arial Rounded MT Bold" FontSize="20" Margin="0,18,0,10" Foreground="White" Height="38" MouseDown="LblHome_MouseDown"/>
+            </DockPanel>
+
+            <DockPanel VerticalAlignment="Center" HorizontalAlignment="Right" Width="204" Height="66" Style="{DynamicResource MenuBackground}" Canvas.Top="299">
+                <Label x:Name="LblStaff" Width="166" Content="Kelola Staff" VerticalAlignment="Center" FontFamily="Arial Rounded MT Bold" FontSize="20" Margin="0,18,0,10" Foreground="White" Height="38" MouseDown="LblStaff_MouseDown" />
+            </DockPanel>
+            <DockPanel VerticalAlignment="Center" HorizontalAlignment="Right" Width="204" Height="66" Style="{DynamicResource MenuBackground}" Canvas.Top="394">
+                <Label x:Name="LblRecord" Width="166" Content="Record Data" VerticalAlignment="Center" FontFamily="Arial Rounded MT Bold" FontSize="20" Margin="0,18,0,10" Foreground="White" Height="38" MouseDown="LblRecord_MouseDown" />
+            </DockPanel>
+        </Canvas>
+        <Grid Grid.Row="0" Grid.Column="0" Background="#09568F" Margin="204,0,-3,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="LbJudul" Content="QUEUP ADMIN ACCESS" Margin="294,10,96,0" FontSize="36" Foreground="White" FontWeight="Bold" FontFamily="Arial Rounded MT Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Width="438" RenderTransformOrigin="0.502,0.5"/>
+            <StackPanel Orientation="Horizontal" Style="{DynamicResource UserBackground}" Margin="0,24,0,28" Grid.Column="1">
+                <Label x:Name="lblDataUser" Width="198" Content="User" VerticalAlignment="Center" FontFamily="Segoe UI Semibold" Foreground="White" Margin="0,30,0,10" Height="60" />
+            </StackPanel>
+            <Label x:Name="LbLogout" Content="Logout" VerticalAlignment="Center" FontFamily="Segoe UI Semibold" Foreground="White" Margin="136,88,-10,28" Height="32" Grid.Column="1" Cursor="Hand" MouseDown="LbLogout_MouseDown">
+                <Label.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock FontWeight="Bold">Log Out</TextBlock>
+                            <TextBlock>Logout kembali ke menu login Akses Admin</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Label.ToolTip>
+            </Label>
+        </Grid>
+        <DockPanel Margin="-5,46,-3,-47">
+            <Frame x:Name="frame" Content="Frame" NavigationUIVisibility="Hidden" HorizontalAlignment="Left" Height="429" VerticalAlignment="Top" Width="1035" Margin="209,93,0,-363" Source="AdminHomePage.xaml" Background="#FF1092A6"/>
+        </DockPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" Background="#0778A8" Margin="0,0,1025,10">
+            <Image x:Name="LogoQueup" HorizontalAlignment="Left" Height="112" VerticalAlignment="Center" Width="161" Margin="19,7,0,0" Source="/Antrian;component/Image/icon/LogoApp.png"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
